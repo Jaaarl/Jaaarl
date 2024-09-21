@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaaarl
 - 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently learning MERN STACK
+- 🌱 I’m currently learning Ruby on Rails
 - 📫 How to reach me through my linkedin 
 - ⚡ Fun fact: I play Dota 2 on my free time 😎
 
