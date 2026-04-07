@@ -1,12 +1,5 @@
 <h2 align="left">Jarl here! A Software Engineer from Sorsogon, Philippines</h2>
 
-###
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Jaaarl&theme=dracula" height="150" alt="streak graph" />
-</div>
-
-###
 <img align="right" height="150" src="https://i.imgflip.com/9hs8fe.gif"  />
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" height="30" alt="rails logo"  />
