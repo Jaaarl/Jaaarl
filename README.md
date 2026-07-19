@@ -1,4 +1,4 @@
-<h2 align="left">Jarl here! A Software Engineer from Sorsogon, Philippines</h2>
+<h2 align="left">Jarl here!</h2>
 
 <img align="right" height="150" src="https://i.imgflip.com/9hs8fe.gif"  />
 <div align="left">
